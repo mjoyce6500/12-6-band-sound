@@ -17,7 +17,7 @@ This folder contains various configurations and settings for the Behringer X32 C
 
 For more information about the Behringer X32 Compact mixer, please refer to the following links:
 
-- [Behringer X32 Compact Official Page](https://www.behringer.com/product.html?model=X32%20COMPACT)
-- [Behringer X32 Compact User Manual](https://www.behringer.com/product.html?model=X32%20COMPACT#downloads)
+- [Behringer X32 Compact Official Page](https://www.behringer.com/product.html?modelCode=0603-AAB)
+- [Behringer X32 Compact User Manual](https://cdn.mediavalet.com/aunsw/musictribe/p573X3_FI0WvmHCkPUW4LQ/AElOAoCQxUaR9cMHWr5GEQ/Original/8849797021726.pdf)
 
 This README serves as a guide to understanding the configurations and resources available for the Behringer X32 Compact mixer.
