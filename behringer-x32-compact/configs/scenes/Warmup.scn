@@ -1,0 +1,24 @@
+# Warmup Scene Configuration for Behringer X32 Compact Mixer
+
+This file contains the scene settings for the warmup session of the Behringer X32 Compact mixer. The Warmup scene is designed to provide a balanced mix for sound checks and rehearsals, ensuring that all instruments and vocals are properly set up before the live performance.
+
+## Scene Settings Overview
+
+- **Channel Settings:** Each channel is configured with appropriate gain levels, EQ settings, and effects tailored for the warmup session.
+- **Effects:** Reverb and delay settings are adjusted to create a natural sound environment without overwhelming the mix.
+- **Monitor Mixes:** Initial monitor mixes are set up to ensure that musicians can hear themselves and each other clearly.
+
+## Configuration Files in This Folder
+
+- **12-6_Warmup.x32:** Contains the saved configuration for the warmup session.
+- **12-6_Show.x32:** Contains the saved configuration for the live show session.
+- **backup_YYYYMMDD.x32:** A backup of the mixer configuration, saved with a date format for easy identification.
+
+## Additional Resources
+
+For more information about the Behringer X32 Compact mixer, please refer to the following links:
+
+- [Behringer X32 Compact Official Page](https://www.behringer.com/product.html?model=X32COMPACT)
+- [Behringer X32 Compact User Manual](https://www.behringer.com/product.html?model=X32COMPACT#downloads)
+
+This scene file is essential for ensuring a smooth and efficient warmup process, allowing for quick adjustments as needed.

@@ -1,0 +1,28 @@
+# Live Scene Configuration for Behringer X32 Compact Mixer
+
+This file contains the scene settings for the live performance of the 12-6 band, tailored specifically for the full band setup. The configurations include channel settings, effects, and routing that are optimized for live sound reinforcement.
+
+## Scene Settings Overview
+
+- **Channel Assignments:** Each channel is configured to correspond with the instruments and vocals used during the live performance.
+- **Effects:** Reverb, delay, and other effects are applied to enhance the overall sound quality and provide a professional mix.
+- **Routing:** Inputs are routed to the appropriate outputs, ensuring that the sound is balanced and clear across the venue.
+
+## Configuration Details
+
+- **Vocals:** Optimized for clarity and presence, with appropriate EQ settings.
+- **Instruments:** Each instrument channel is set with tailored EQ and dynamics processing to fit within the mix.
+- **Monitor Mixes:** Specific monitor mixes are created for each performer to ensure they can hear themselves and the band effectively.
+
+## Usage
+
+To load this scene, navigate to the scenes section of the Behringer X32 Compact mixer and select the "Live" scene. Ensure that all inputs are connected as per the input patching configuration.
+
+## Additional Resources
+
+For more information about the Behringer X32 Compact mixer, please refer to the following links:
+
+- [Behringer X32 Compact Official Page](https://www.behringer.com/product.html?model=X32COMPACT)
+- [Behringer X32 Compact User Manual](https://www.behringer.com/product.html?model=X32COMPACT#downloads)
+
+This scene is part of the overall configuration for the 12-6 band and should be used in conjunction with the other saved configurations for optimal performance.

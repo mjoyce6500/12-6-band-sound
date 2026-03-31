@@ -1,0 +1,11 @@
+Channel,Input Type,Mic/Line,Gain,Notes
+1,Kick Drum,Mic,0,Use Beta52
+2,Snare Drum,Mic,0,Use SM57 Top Mic
+3,Hi-Hat,Mic,0,Small condenser for crisp transients
+4,Bass,DI,0,Blend DI with Amp Mic
+5,Lead Vocal,Mic,0,Use SM58, compress heavily
+6,Backing Vocal,Mic,0,Use SM58, reverb send only
+7,Guitar 1,DI,0,Use SM57, pan left
+8,Guitar 2,DI,0,Use SM57, pan right
+9,Keys,DI,0,Carve mids for vocal space
+10,Click Track,Line,0,Send to monitor only
